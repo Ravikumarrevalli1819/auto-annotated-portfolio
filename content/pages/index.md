@@ -14,10 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Welcome to My Portfolio Hi, I’m [Your Name], a Power BI Developer with a
-      passion for transforming raw data into actionable insights. With expertise
-      in data modeling, visualization, and storytelling, I help businesses make
-      informed decisions by unlocking the full potential of their data.
+      Welcome to My Portfolio, I’m Ravikumar Revalli, a Power BI Developer with
+      a passion for transforming raw data into actionable insights. With
+      expertise in data modeling, visualization, and storytelling, I help
+      businesses make informed decisions by unlocking the full potential of
+      their data.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
