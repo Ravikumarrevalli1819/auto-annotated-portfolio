@@ -19,10 +19,7 @@ sections:
       expertise in data modeling, visualization, and storytelling, I help
       businesses make informed decisions by unlocking the full potential of
       their data.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: ''
     styles:
       self:
         height: auto
