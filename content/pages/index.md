@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Welcome to My Portfolio Hi, I’m [Your Name], a Power BI Developer with a
+      passion for transforming raw data into actionable insights. With expertise
+      in data modeling, visualization, and storytelling, I help businesses make
+      informed decisions by unlocking the full potential of their data.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
