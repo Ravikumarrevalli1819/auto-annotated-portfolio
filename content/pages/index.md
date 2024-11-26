@@ -19,7 +19,13 @@ sections:
       expertise in data modeling, visualization, and storytelling, I help
       businesses make informed decisions by unlocking the full potential of
       their data.
-    subtitle: ''
+    subtitle: >-
+      Turning Data into DecisionsI specialize in creating interactive and
+      visually compelling dashboards using Power BI. My skill set includes:Data
+      Analysis Expressions (DAX)Data Modeling and TransformationIntegration with
+      SQL, Excel, and Cloud PlatformsCustom Visualizations and Report
+      AutomationMy goal is to bridge the gap between complex data and
+      decision-makers by delivering intuitive business intelligence solutions.
     styles:
       self:
         height: auto
